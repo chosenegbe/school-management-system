@@ -1,0 +1,1 @@
+select * from courses WHERE course_name ='Game Theory'
